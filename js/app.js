@@ -42,10 +42,10 @@ const createCart = (carrito) => {
     let html = `<table class="w-100 table">
                             <thead>
                                 <tr>
-                                    <th>Imagen</th>
+                                    <th>imagen</th>
                                     <th>Nombre</th>
                                     <th>precio</th>
-                                    <th>cantidad</th>
+                                    <th>Cantidad</th>
                                     <th></th>
                                 </tr>
                             </thead>
